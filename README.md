@@ -10,7 +10,7 @@ This is a Snake game.
 3. Run `main.pyw`
 ## Requirements
 - Python 3.7
-- Python tkinter library
-- Python random library
+- Python `tkinter` library
+- Python `random` library
 ## Usage
 You can start a game using the `ENTER` key and move the snake using the arrow keys.
